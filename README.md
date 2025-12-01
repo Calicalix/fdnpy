@@ -1,22 +1,25 @@
 # **fdnpy**
 
-Complete Python SDK for FinancialData.net API
+Complete Python SDK for [FinancialData.Net](https://financialdata.net/) API
 
 ## **Installation**
 
+```
 pip install fdnpy
-
+```
 ## **Usage Example**
 
+```python
 from fdnpy import FinancialDataClient
 
-\# Replace 'YOUR\_API\_KEY' with your actual key  
-client \= FinancialDataClient(api\_key='YOUR\_API\_KEY')
+# Replace 'YOUR_API_KEY' with your actual key  
+client = FinancialDataClient(api_key='YOUR_API_KEY')
 
-\# Example: Get stock prices for Microsoft  
-prices \= client.get\_stock\_prices(identifier='MSFT')  
+# Get stock prices for Microsoft  
+prices = client.get_stock_prices(identifier='MSFT')  
 print(prices)
 
-\# Example: Get Microsoft's balance sheet  
-balance\_sheet \= client.get\_balance\_sheet\_statements(identifier='MSFT', period='year')  
-print(balance\_sheet)  
+# Get Microsoft's balance sheet  
+balance_sheet = client.get_balance_sheet_statements(identifier='MSFT', period='year')  
+print(balance_sheet)  
+```
