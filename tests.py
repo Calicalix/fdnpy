@@ -111,7 +111,7 @@ class TestFinancialDataClient(unittest.TestCase):
     @classmethod
     def initialize(cls):
 
-        api_key = os.environ.get('FINANCIAL_DATA_API_KEY', 'API_KEY')
+        api_key = os.environ.get('FINANCIAL_DATA_API_KEY', None)
         if api_key is None:
             unittest.SkipTest('API key not set, skipping tests')
         
@@ -125,4 +125,5 @@ class TestFinancialDataClient(unittest.TestCase):
 TestFinancialDataClient.initialize()
 if __name__ == '__main__':
     print('Starting API Tests...')
+
     unittest.main()
